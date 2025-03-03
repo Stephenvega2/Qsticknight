@@ -1,6 +1,6 @@
 MIT License
 
-Copyright (c) 2025 Stephenvega2
+Copyright (c) 2025 Quantum Cryptographic Platform Contributors
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -19,3 +19,82 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+SECURITY FEATURES AND CONTRIBUTIONS:
+
+This quantum cryptographic platform implements several cutting-edge security features:
+
+1. Quantum-Classical Hybrid Encryption:
+   - AES-256-CBC classical encryption
+   - Quantum key enhancement
+   - Entropy-based security validation
+   - Protection against quantum computing threats
+
+2. Quantum Security Monitoring:
+   - Real-time state tracking
+   - Ion trap stability monitoring
+   - Quantum circuit analysis
+   - Malware detection using quantum patterns
+
+3. AI-Enhanced Security:
+   - Integration with Anthropic's Claude model
+   - Automated threat detection
+   - Security pattern analysis
+   - Quantum state validation
+
+4. Post-Deployment Security:
+   - Continuous quantum state monitoring
+   - Automated security alerts
+   - Statistical validation
+   - Channel security metrics
+
+CONTRIBUTION GUIDELINES:
+
+This platform welcomes contributions in the following areas:
+
+1. Quantum Circuit Enhancement:
+   - Improved teleportation protocols
+   - New quantum state preparation methods
+   - Enhanced error correction
+
+2. Security Features:
+   - Additional quantum security protocols
+   - Improved classical-quantum integration
+   - Enhanced monitoring capabilities
+
+3. Visualization and Education:
+   - Better quantum state visualization
+   - Educational materials and documentation
+   - Interactive learning features
+
+4. Testing and Validation:
+   - Additional test cases
+   - Performance benchmarks
+   - Security validation methods
+
+DEPLOYMENT CONSIDERATIONS:
+
+When deploying this platform:
+1. Ensure all quantum components are properly initialized
+2. Configure security thresholds appropriately
+3. Set up monitoring and alerting systems
+4. Regularly update AI security models
+5. Maintain proper key management
+6. Monitor quantum entropy levels
+7. Validate quantum-classical integration
+
+VALUE PROPOSITION:
+
+This platform provides value in several ways:
+1. Educational resource for quantum computing
+2. Research platform for quantum security
+3. Real-world quantum-classical integration
+4. Open-source quantum computing tools
+5. Interactive quantum visualization
+6. Security research and development
+7. Protection of internet communications
+8. Community-driven security development
+9. Quantum-safe infrastructure development
+10. Contribution to internet security
+
+For more information on usage and contributions, please refer to the documentation.
