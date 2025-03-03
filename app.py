@@ -377,6 +377,11 @@ if __name__ == '__main__':
             logger.info("Database tables created successfully")
 
         logger.info("Starting Flask server on port 5000...")
+        app.run(host='0.0.0.0', port=5000, debug=False)  # Set debug to False
+    except Exception as e:
+        logger.error(f"Failed to start server: {str(e)}")
+        traceback.print_exc()
+        logger.info("Starting Flask server on port 5000...")
         app.run(host='0.0.0.0', port=5000, debug=True)
     except Exception as e:
         logger.error(f"Failed to start server: {str(e)}")
