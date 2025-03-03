@@ -275,5 +275,6 @@ The system uses PostgreSQL to store quantum states and measurements:
 4. Add tests if applicable
 5. Submit a pull request
 
+ and the name Qsticknight is made fromm quantum security  teleport internet connection I added knight to help it sound more easy.
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
