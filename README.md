@@ -1,5 +1,7 @@
 # Quantum Teleportation and Visualization System
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/b8da454df3294e1187206a3829042b43)](https://app.codacy.com/gh/Stephenvega2/Qsticknight?utm_source=github.com&utm_medium=referral&utm_content=Stephenvega2/Qsticknight&utm_campaign=Badge_Grade)
+
 A comprehensive quantum computing platform that combines quantum teleportation, state visualization, and cryptographic features to secure the future of internet communication.
 
 ## Our Mission
